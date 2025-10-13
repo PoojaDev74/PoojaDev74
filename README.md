@@ -25,15 +25,15 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoojaDev74&show_icons=true&locale=en&layout=compact&theme=radical" alt="PoojaDev74" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoojaDev74&show_icons=true&locale=en&layout=compact" alt="PoojaDev74" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PoojaDev74&show_icons=true&locale=en&theme=radical" alt="PoojaDev74" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PoojaDev74&show_icons=true&locale=en" alt="PoojaDev74" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaDev74&theme=radical" alt="PoojaDev74" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaDev74&" alt="PoojaDev74" />
 </p>
 
 <hr />
