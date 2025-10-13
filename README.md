@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pooja</h1>
 <h3 align="center">Passionate Full Stack Web Developer | Enhancing MERN Stack and Exploring Next.js, TypeScript, and Databases</h3>
 
-- **Current Role / Goal:** (e.g. “Aspiring Web Developer”, “Front-End Developer”, “Full-Stack        Enthusiast”)  
-- **Tech Interests:** (e.g. JavaScript, React, Node.js, Python, Data Structures, DevOps)  
+- **Current Role / Goal:** (e.g. “Aspiring Web Developer”, “Front-End Developer”, “Full-Stack Developer”)  
+- **Tech Interests:** (e.g. JavaScript, React, Node.js, Express, DevOps)  
 - **Hobbies / Outside Coding:** (e.g. reading, music, travel, painting)  
 
 
