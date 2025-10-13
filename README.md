@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pooja</h1>
+<img width="1162" height="773" alt="image" src="https://github.com/user-attachments/assets/d93cd34b-7297-4010-bca5-01fb9f12af47" /><h1 align="center">Hi 👋, I'm Pooja</h1>
 <h3 align="center">Passionate Full Stack Web Developer | Enhancing MERN Stack and Exploring Next.js, TypeScript, and Databases</h3>
 
 - **Current Role / Goal:** (e.g. “Aspiring Web Developer”, “Front-End Developer”, “Full-Stack        Enthusiast”)  
@@ -23,12 +23,21 @@
 <hr />
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoojaDev74&show_icons=true&locale=en&layout=compact" alt="rajsingh-19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajsingh-19&show_icons=true&locale=en" alt="PoojaDev74" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoojaDev74&show_icons=true&locale=en&layout=compact&theme=radical" alt="PoojaDev74" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaDev74&" alt="PoojaDev74" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PoojaDev74&show_icons=true&locale=en&theme=radical" alt="PoojaDev74" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaDev74&theme=radical" alt="PoojaDev74" />
+</p>
 
 <hr />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PoojaDev74&label=Profile%20views&color=0e75b6&style=flat" alt="PoojaDev74" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PoojaDev74&label=Profile%20views&color=0e75b6&style=flat" alt="PoojaDev74" />
+</p>
