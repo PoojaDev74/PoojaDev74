@@ -1,4 +1,4 @@
-<img width="1162" height="773" alt="image" src="https://github.com/user-attachments/assets/d93cd34b-7297-4010-bca5-01fb9f12af47" /><h1 align="center">Hi 👋, I'm Pooja</h1>
+<h1 align="center">Hi 👋, I'm Pooja</h1>
 <h3 align="center">Passionate Full Stack Web Developer | Enhancing MERN Stack and Exploring Next.js, TypeScript, and Databases</h3>
 
 - **Current Role / Goal:** (e.g. “Aspiring Web Developer”, “Front-End Developer”, “Full-Stack        Enthusiast”)  
