@@ -11,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/poojadevaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pooja D" height="30" width="40" /></a>
+
 <a href="https://github.com/PoojaDev74" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PoojaDev74&show_icons=true&theme=radical" alt="PoojaDev74" height="30" width="40" /></a>
 </p>
 
