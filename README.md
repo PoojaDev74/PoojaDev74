@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pooja</h1>
-<h3 align="center">Passionate Full Stack Web Developer | Enhancing MERN Stack and Exploring Node.js, TypeScript, and Databases</h3>
+<h3 align="center">Passionate Full Stack Web Developer | Enhancing MERN Stack and Exploring Node.js, JavaScript, </h3>
 
 - **Current Role / Goal:** (e.g. “Aspiring Web Developer”, “Front-End Developer”, “Full-Stack Developer”)  
-- **Tech Interests:** (e.g. JavaScript, React, Node.js, Express, DevOps)  
+- **Tech Interests:** (e.g. JavaScript, React, Node.js, Express)  
 - **Hobbies / Outside Coding:** (e.g. reading, music, travel, painting)  
 
 
@@ -22,21 +22,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <hr />
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoojaDev74&show_icons=true&locale=en&layout=compact" alt="PoojaDev74" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PoojaDev74&show_icons=true&locale=en" alt="PoojaDev74" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaDev74&" alt="PoojaDev74" />
-</p>
-
 <hr />
 
 <p align="left">
