@@ -5,10 +5,13 @@
 - **Tech Interests:** (e.g. JavaScript, React, Node.js, Express)  
 - **Hobbies / Outside Coding:** (e.g. reading, music, travel, painting)  
 
+---
+
 ### 📫 Reach Me
 - 📧 **Gmail:** poojapreethi2001@gmail.coml.com  
 - 🔗 **LinkedIn:** (https://www.linkedin.com/in/poojadevaraj) 
 
+---
 
 ## 🛠️ Languages and Tools
 <table>
@@ -55,6 +58,7 @@
 </table>
 
 
+---
 
 ## 🚀 Featured Projects
 
