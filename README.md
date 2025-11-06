@@ -29,7 +29,7 @@
 
 ## 🚀 Featured Projects
 
-# 🍔 Resturant App (MERN Stack)
+# 🍔 Restaurant App
 A full-stack Resturant_Food Delivery Web Application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This application allows users to browse menus, add items to the cart, place food orders, and track order status in real-time. It also includes an User Dashboard for managing restaurants, menu items, and orders efficiently.
 
 ### 🍽 User Features
