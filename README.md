@@ -1,32 +1,33 @@
-<h1 align="center">Hi 👋, I'm Pooja</h1>
+<h1 align="center">👋 Hi,I'm Pooja</h1>
 <h3 align="center">Passionate Full Stack Web Developer | Enhancing MERN Stack and Exploring Node.js, JavaScript, </h3>
 
 - **Current Role / Goal:** (e.g. “Aspiring Web Developer”, “Front-End Developer”, “Full-Stack Developer”)  
 - **Tech Interests:** (e.g. JavaScript, React, Node.js, Express)  
 - **Hobbies / Outside Coding:** (e.g. reading, music, travel, painting)  
 
+### 📫 Reach Me
+- 📧 **Gmail:** poojapreethi2001@gmail.coml.com  
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/poojadevaraj) 
 
-<hr />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/poojadevaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pooja D" height="30" width="40" /></a>
-
-<a href="https://github.com/PoojaDev74" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PoojaDev74&show_icons=true&theme=radical" alt="PoojaDev74" height="30" width="40" /></a>
-</p>
-
-<hr />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<hr />
-<hr />
+## 🛠️ Languages and Tools
+- Bootstrap (https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+- JavaScript (https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- CSS3 (https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+- Tailwind (https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+- Git (https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+- HTML5 (https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+- React (https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+- Node.js (https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+- Express.js (https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
+- MongoDB (https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+- Postman (https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+- Redux (https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)
 
 ## 🚀 Featured Projects
 
 # 🍔 Resturant App (MERN Stack)
+A full-stack Resturant_Food Delivery Web Application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This application allows users to browse menus, add items to the cart, place food orders, and track order status in real-time. It also includes an User Dashboard for managing restaurants, menu items, and orders efficiently.
 
 ### 🍽 User Features
 - Browse restaurant menus and food categories  
@@ -40,9 +41,52 @@
 - Dashboard view for overall sales and order statistics  
 - Authentication-protected admin access
 
-🌐 Live Demo 
+## 🔗 Live Demo 
 Client: (https://resturant-app-ipbd.vercel.app)
 User: (https://resturant-app-kappa.vercel.app)
 Backend API: (https://resturant-app-ss.onrender.com)
 
 
+# 📝 Pocket notes
+Organize your ideas effortlessly! Create groups, add notes, and never lose them — even after a page reload.
+
+## ✨ Features
+- Create & Manage Groups – Add new groups via popup, close by clicking outside.
+- No Duplicates – Prevents adding groups with the same name.
+- Auto Avatar – Generates a avatar from group name.
+- Group-Specific Notes – Each group holds its own notes.
+- Quick Save – Save with Enter key or Send icon.
+- Persistent Data – Uses LocalStorage to keep notes/groups after reload.
+- Instant Switching – Changing groups fetches relevant notes instantly.
+- Meta Data – Stores date & time for creation & last update.
+- Smart Send Button – Active color only when text is present.
+
+## 🔗 Live Demo 
+https://pocketnotes-app-frontend.onrender.com
+
+
+# 🎮  Rock Paper Scissors Game
+A fun and interactive **Rock-Paper-Scissors** web game built using **HTML, CSS, and JavaScript**. This project provides an engaging user experience with smooth animations, score tracking, and a rules modal — all packed in a visually rich UI.
+
+## 🎮 Features
+- **Classic Gameplay** — Choose between Rock, Paper, and Scissors.
+- **Computer AI** — The computer makes a random move each round.
+- **Score Tracking** — Player and Computer scores are stored in **localStorage**.
+- **Victory Page** — When the player wins, a celebratory screen with animated circles and a "Hurray!" message appears.
+- **Next Round Button** — Appears when the player wins a round, allowing the user to continue.
+- **Rules Modal** — A "Rules" button on all pages opens a modal showing game rules.
+- **Persistent State** — Scores remain intact across sessions via localStorage.
+
+  ## 🔗 Live Demo 
+(https://stone-paper-scissor-javascript.netlify.app/)
+
+
+# 📝 Booking PDF Generator
+ Itinerary Builder (Booking PDF Generator) is a web application that helps users generate printable PDF itineraries or booking documents.
+
+## ✨ Features
+- Enter travel / booking details (dates, destinations, accommodations, activities, etc.)
+- Preview the itinerary in a well-formatted layout
+- Export / download as a PDF
+- Responsive UI that works on desktop and mobile
+- Simple, clean design focused on usability
