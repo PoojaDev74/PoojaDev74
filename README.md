@@ -62,7 +62,6 @@
 
 ## 🚀 Featured Projects
 
----
 
 ### 🍔 **Restaurant App (MERN Stack)**
 A full-stack Restaurant & Food Delivery Web Application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
