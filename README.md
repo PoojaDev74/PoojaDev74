@@ -133,3 +133,5 @@ A web application that generates printable **PDF itineraries / booking documents
 - Clean, simple, responsive UI  
 
 
+#### 🔗 Live Demo
+https://bookingpdfgenerator.netlify.app/
