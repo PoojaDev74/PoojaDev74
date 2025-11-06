@@ -12,7 +12,7 @@
 
 ## 🛠️ Languages and Tools
 - Bootstrap (https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-- JavaScript (https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- JavaScript (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - CSS3 (https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
 - Tailwind (https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 - Git (https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
