@@ -58,67 +58,76 @@
 
 ## 🚀 Featured Projects
 
-# 🍔 Restaurant App
-A full-stack Resturant_Food Delivery Web Application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This application allows users to browse menus, add items to the cart, place food orders, and track order status in real-time. It also includes an User Dashboard for managing restaurants, menu items, and orders efficiently.
+---
 
-### 🍽 User Features
+### 🍔 **Restaurant App (MERN Stack)**
+A full-stack Restaurant & Food Delivery Web Application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
+Users can browse menus, add items to the cart, place orders, and track order status in real-time.  
+Includes a **User Dashboard** for managing restaurants, menu items, and live orders.
+
+#### ✅ User Features
 - Browse restaurant menus and food categories  
-- Add food items to cart and place orders  
-- Track live order status and view order history  
-- Secure login, signup, and JWT-based authentication  
+- Add food items to cart & place orders  
+- Track live order status + view order history  
+- Secure Login, Signup & JWT Authentication  
 
-### 🧑‍💼 User Dashboard
-- Add, edit, or delete restaurants and menu items  
-- Manage customer orders and update order statuses  
-- Dashboard view for overall sales and order statistics  
-- Authentication-protected admin access
+#### 🧑‍💼 Admin Dashboard
+- Add / Edit / Delete restaurants & menu items  
+- Manage customer orders + update statuses  
+- Dashboard with sales & order analytics  
+- Authentication-protected admin access  
 
-## 🔗 Live Demo 
-Client: (https://resturant-app-ipbd.vercel.app)
-User: (https://resturant-app-kappa.vercel.app)
-Backend API: (https://resturant-app-ss.onrender.com)
+#### 🔗 Live Demo
+- **Client:** https://resturant-app-ipbd.vercel.app  
+- **User:** https://resturant-app-kappa.vercel.app  
+- **Backend API:** https://resturant-app-ss.onrender.com  
 
+---
 
-# 📝 Pocket notes
-Organize your ideas effortlessly! Create groups, add notes, and never lose them — even after a page reload.
+### 📝 **Pocket Notes**
+Organize your thoughts effortlessly! Create groups, add notes, and never lose them — even after reload.
 
-## ✨ Features
-- Create & Manage Groups – Add new groups via popup, close by clicking outside.
-- No Duplicates – Prevents adding groups with the same name.
-- Auto Avatar – Generates a avatar from group name.
-- Group-Specific Notes – Each group holds its own notes.
-- Quick Save – Save with Enter key or Send icon.
-- Persistent Data – Uses LocalStorage to keep notes/groups after reload.
-- Instant Switching – Changing groups fetches relevant notes instantly.
-- Meta Data – Stores date & time for creation & last update.
-- Smart Send Button – Active color only when text is present.
+#### ✨ Features
+- Create & Manage groups via modal popup  
+- Prevents adding duplicate group names  
+- Auto-generated avatar from group name  
+- Group-specific notes with timestamps  
+- Save notes using **Enter** key or **Send** button  
+- Persistent data using **LocalStorage**  
+- Instant switching between groups  
+- Active send button only when text is typed  
 
-## 🔗 Live Demo 
+#### 🔗 Live Demo
 https://pocketnotes-app-frontend.onrender.com
 
+---
 
-# 🎮  Rock Paper Scissors Game
-A fun and interactive **Rock-Paper-Scissors** web game built using **HTML, CSS, and JavaScript**. This project provides an engaging user experience with smooth animations, score tracking, and a rules modal — all packed in a visually rich UI.
+### 🎮 **Rock Paper Scissors Game**
+A fun and interactive Rock-Paper-Scissors web game built using **HTML, CSS, and JavaScript**.  
+Smooth animations, score tracking, rules modal & victory screens packed in a visually rich UI.
 
-## 🎮 Features
-- **Classic Gameplay** — Choose between Rock, Paper, and Scissors.
-- **Computer AI** — The computer makes a random move each round.
-- **Score Tracking** — Player and Computer scores are stored in **localStorage**.
-- **Victory Page** — When the player wins, a celebratory screen with animated circles and a "Hurray!" message appears.
-- **Next Round Button** — Appears when the player wins a round, allowing the user to continue.
-- **Rules Modal** — A "Rules" button on all pages opens a modal showing game rules.
-- **Persistent State** — Scores remain intact across sessions via localStorage.
+#### ✨ Features
+- Classic gameplay — Rock vs Paper vs Scissors  
+- Computer AI opponent (random logic)  
+- Score tracking stored in **LocalStorage**  
+- Victory screen with celebration animation  
+- Next-Round button after winning  
+- Rules modal explaining gameplay  
+- Persistent scores across reloads  
 
-  ## 🔗 Live Demo 
-(https://stone-paper-scissor-javascript.netlify.app/)
+#### 🔗 Live Demo
+https://stone-paper-scissor-javascript.netlify.app/
+
+---
+
+### 📝 **Booking PDF Generator**
+A web application that generates printable **PDF itineraries / booking documents**.
+
+#### ✨ Features
+- Enter trip details — dates, destinations, hotels, activities  
+- Preview itinerary in a formatted layout  
+- Export PDF in one click  
+- Works on desktop & mobile  
+- Clean, simple, responsive UI  
 
 
-# 📝 Booking PDF Generator
- Itinerary Builder (Booking PDF Generator) is a web application that helps users generate printable PDF itineraries or booking documents.
-
-## ✨ Features
-- Enter travel / booking details (dates, destinations, accommodations, activities, etc.)
-- Preview the itinerary in a well-formatted layout
-- Export / download as a PDF
-- Responsive UI that works on desktop and mobile
-- Simple, clean design focused on usability
