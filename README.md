@@ -29,10 +29,31 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br>Node.js
 </td>
 <td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br>Express.js
+</td>
+</tr>
+<tr>
+<td align="center" width="90">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br>MongoDB
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>PHP
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>HTML5
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>CSS3
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>Git
 </td>
 </tr>
 </table>
+
 
 
 ## 🚀 Featured Projects
