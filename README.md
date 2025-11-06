@@ -26,5 +26,23 @@
 
 ## 🚀 Featured Projects
 
+# 🍔 Resturant App (MERN Stack)
+
+### 🍽 User Features
+- Browse restaurant menus and food categories  
+- Add food items to cart and place orders  
+- Track live order status and view order history  
+- Secure login, signup, and JWT-based authentication  
+
+### 🧑‍💼 User Dashboard
+- Add, edit, or delete restaurants and menu items  
+- Manage customer orders and update order statuses  
+- Dashboard view for overall sales and order statistics  
+- Authentication-protected admin access
+
+🌐 Live Demo 
+Client: (https://resturant-app-ipbd.vercel.app)
+User: (https://resturant-app-kappa.vercel.app)
+Backend API: (https://resturant-app-ss.onrender.com)
 
 
