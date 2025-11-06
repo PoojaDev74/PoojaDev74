@@ -83,7 +83,6 @@ Includes a **User Dashboard** for managing restaurants, menu items, and live ord
 #### 🔗 Live Demo
 - **Client:** https://resturant-app-ipbd.vercel.app  
 - **User:** https://resturant-app-kappa.vercel.app  
-- **Backend API:** https://resturant-app-ss.onrender.com  
 
 ---
 
